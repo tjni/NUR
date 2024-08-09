@@ -131,8 +131,8 @@
             "url": "https://git.sr.ht/~aasg/nixexprs"
         },
         "abszero": {
-            "rev": "97dd4fb847a6027aef99273562d1a6fe19494101",
-            "sha256": "0w31059h8gxmjk4vfqmfd14dx7nl20g2imh4310gb1d21qirj4xd",
+            "rev": "9d4cf5c6efd747a5286301170e80348150dea2b2",
+            "sha256": "1wl5i7rcr7xvzw8av372j4dvxzddw4k6bkh5z8a26vylq9rdnvlp",
             "url": "https://github.com/Weathercold/nixfiles"
         },
         "afreakk": {
@@ -216,8 +216,8 @@
             "url": "https://github.com/Artturin/artturin-nur"
         },
         "ataraxiasjel": {
-            "rev": "bad35285269683bb0e23b39ad3949e0c3ddf0f25",
-            "sha256": "1253ff185ngcnrddyyd5rdryy9k5vp7izfklzvnclw4yhrz1xb7f",
+            "rev": "24ab4e38c9a2424f321eb60b4f72d3cf97f676c9",
+            "sha256": "1fb4byplwak25g2i8yf7ixlb2l3ia89bci17jq27lciclfsjccz8",
             "url": "https://github.com/AtaraxiaSjel/nur"
         },
         "avrahambenaram": {
@@ -382,8 +382,8 @@
             "url": "https://github.com/clefru/nur-packages"
         },
         "colinsane": {
-            "rev": "1ee81db537053b9e21507e93de5dc4eb7d916a30",
-            "sha256": "0nafsdc81aidnbbqs1iq7k9k5r0lxx6qldkmcjs33aqb07mrafkg",
+            "rev": "7b043d0c872b91f98c27df1fe2b0266693ae26c5",
+            "sha256": "05a9yv06lp0qxf7wma5zcrg62x459b68x6finrminbi088mv2f71",
             "url": "https://git.uninsane.org/colin/nix-files"
         },
         "congee": {
@@ -1785,8 +1785,8 @@
             "url": "https://codeberg.org/wolfangaukang/nix-agordoj.git"
         },
         "xddxdd": {
-            "rev": "9bac753578dc0a57c54f6c49343b0a9a9b4f2059",
-            "sha256": "045j3b9dyip92n14rdknf3vir7dhav0lpnsl1iahb6gn09k2jkll",
+            "rev": "a4c79e02e8bc105ab89d3226892284fd0acc133b",
+            "sha256": "0y3kcgand5n5abawqband9js0ckb7gnxlwh3qx0dda3xj0607hzn",
             "url": "https://github.com/xddxdd/nur-packages"
         },
         "xe": {
@@ -1805,8 +1805,8 @@
             "url": "https://github.com/xfix/nur-packages"
         },
         "xonsh-xontribs": {
-            "rev": "63d1081ba51e78401979d6b1abbfaa1315657de9",
-            "sha256": "083s2h1ixagpp31d4wa9qs5sy0bxwp06glyzk9qzy7fh0980n267",
+            "rev": "f5d192c095e4bfa3ed32e005e20ab508fb3798ed",
+            "sha256": "0vp3ay435zp8wrxa43rpc0vl4gwbh917mw74h1xy87zxh5slsk9h",
             "url": "https://github.com/drmikecrowe/nur-packages"
         },
         "xyenon": {
