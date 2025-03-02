@@ -298,6 +298,10 @@
             "submodules": true,
             "url": "https://github.com/blakat360/nur-packages"
         },
+        "bot-wxt1221": {
+            "github-contact": "bot-wxt1221",
+            "url": "https://github.com/Bot-wxt1221/Bot-wxt1221-nur"
+        },
         "breakingtv": {
             "github-contact": "breakingtv",
             "url": "https://github.com/BreakingTV/nur-packages"
@@ -706,6 +710,10 @@
             "github-contact": "iagocq",
             "url": "https://github.com/iagocq/nix"
         },
+        "ianmurphy1": {
+            "github-contact": "ianmurphy1",
+            "url": "https://github.com/ianmurphy1/nurpkgs"
+        },
         "ifd3f": {
             "github-contact": "ifd3f",
             "url": "https://github.com/ifd3f/nur-packages"
@@ -823,6 +831,10 @@
         "jorsn": {
             "github-contact": "jorsn",
             "url": "https://github.com/jorsn/nur-packages"
+        },
+        "josh": {
+            "github-contact": "josh",
+            "url": "https://github.com/josh/nurpkgs"
         },
         "jpts": {
             "github-contact": "jpts",
@@ -1008,6 +1020,10 @@
             "github-contact": "milahu",
             "submodules": true,
             "url": "https://github.com/milahu/nur-packages"
+        },
+        "minegameYTB": {
+            "github-contact": "minegameYTB",
+            "url": "https://github.com/minegameYTB/nurpkgs-repo"
         },
         "minion3665": {
             "github-contact": "minion3665",
@@ -1601,6 +1617,10 @@
         "wolfangaukang": {
             "github-contact": "WolfangAukang",
             "url": "https://codeberg.org/wolfangaukang/nix-agordoj.git"
+        },
+        "wrvsrx": {
+            "github-contact": "wrvsrx",
+            "url": "https://github.com/wrvsrx/nur-packages"
         },
         "wwmoraes": {
             "github-contact": "wwmoraes",
